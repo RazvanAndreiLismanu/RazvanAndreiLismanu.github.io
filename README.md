@@ -15,20 +15,20 @@ Sesión 02
 
 Nombre de la Linux Virtual Machine en Azure:rl888-hms18-vm1
 
-DNS de la máquina: http://rl888-hms18-vm1.eastus.cloudapp.azure.com
+DNS de la máquina: [http://rl888-hms18-vm1.eastus.cloudapp.azure.com](http://rl888-hms18-vm1.eastus.cloudapp.azure.com)
 
 Sesión 03
 
-DNS de la máquina con GitLab:http://rl888-hms18-vm1.eastus.cloudapp.azure.com
+DNS de la máquina con GitLab:[http://rl888-hms18-vm1.eastus.cloudapp.azure.com](http://rl888-hms18-vm1.eastus.cloudapp.azure.com)
 
 Nombre del repositorio GitLab con ejercicios:Lismanu/rl888-hmis-sesion3
 
-DNS de la máquina con Jenkins:http://ssg127-hms18-v2.eastus.cloudapp.azure.com
+DNS de la máquina con Jenkins:[http://ssg127-hms18-v2.eastus.cloudapp.azure.com](http://ssg127-hms18-v2.eastus.cloudapp.azure.com)
 
 Sesión 04
 
-URL de la página de equipo:http://corei7-hmis-18-vm3.eastus.cloudapp.azure.com
+URL de la página de equipo:[http://corei7-hmis-18-vm3.eastus.cloudapp.azure.com](http://corei7-hmis-18-vm3.eastus.cloudapp.azure.com)
 
-Repositorio GitHub de la página de equipo:https://github.com/ssg127/hmis_sesion04
+Repositorio GitHub de la página de equipo:[https://github.com/ssg127/hmis_sesion04](https://github.com/ssg127/hmis_sesion04)
 
 Repositorio forkeado de la página de equipo: Soy el propietario del repositorio,Santiago hizo el fork.
